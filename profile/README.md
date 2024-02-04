@@ -4,5 +4,5 @@ Welcome to the VILS GitHub repository!
 
 Connect with us:
 
-- [Website](https://vils.ai/)
+- [VILS.ai](https://vils.ai/)
 - [LinkedIn](https://in.linkedin.com/company/vils-ait)
