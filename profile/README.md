@@ -1,6 +1,6 @@
 # VILS BEHAVIOUR INTELLIGENCE
 
-Welcome to the VILS GitHub repository!
+Welcome to the VILS!
 
 Connect with us:
 
