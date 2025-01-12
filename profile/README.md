@@ -19,7 +19,7 @@ We maintain a variety of projects, including:
 - **Skillassess**
 - **Placement Buddy**
 
-Check out our pinned repositories for highlights or browse all our projects in the [Repositories](https://github.com/vils-ait?tab=repositories) section.
+Check out our pinned repositories for highlights or browse all our projects in the [Repositories](https://github.com/orgs/vils-ait/repositories) section.
 
 ---
 
